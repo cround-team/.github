@@ -1,12 +1,28 @@
-## Hi there 👋
+# 크라운드(CROUND)
 
-<!--
+### 크리에이터를 위한 커피챗 서비스
 
-**Here are some ideas to get you started:**
+## 😎 멤버
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 프론트
+<table>
+    <tr height="140px">
+       <td align="center" width="130px">
+          <a href="https://github.com/cherryc0ck"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/60921094?v=4"/></a>
+          <br />
+          <a href="https://github.com/cherryc0ck">cherryc0ck</a>
+      </td>
+    </tr>
+</table>
+
+
+### 백엔드
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/ahn-sj"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/64416833?v=4"/></a>
+            <br />
+            <a href="https://github.com/ahn-sj">ahn-sj</a>
+        </td>
+    </tr>
+</table>
